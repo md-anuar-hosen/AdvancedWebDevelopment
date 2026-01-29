@@ -61,3 +61,104 @@ This video discussed writing clean and readable code. I learned that good naming
 16. Next Steps in JavaScript Learning
 
 The final video suggested how to continue learning JavaScript. It motivated me to practice more and explore frameworks and real projects.
+17. Switch Statements
+This video explained switch statements as an alternative to if statements.
+
+18. Functions
+I learned how functions help organize and reuse code.
+
+19. Function Parameters
+This video showed how functions receive input values.
+
+20. Return Values
+I learned how functions return results.
+
+21. Arrow Functions
+This video explained a shorter syntax for functions.
+
+22. Scope
+I learned the difference between global and local scope.
+
+23. Global vs Local Scope
+This video explained where variables can be accessed.
+
+24. Arrays
+I learned how arrays store multiple values.
+
+25. Accessing Array Elements
+This video showed how to access array items by index.
+
+26. Array Methods
+I learned how to add and remove items from arrays.
+
+27. Loops
+This video explained how loops repeat tasks automatically.
+
+28. For Loops
+I learned how for loops work step by step.
+
+29. While Loops
+This video explained loops based on conditions.
+
+30. Objects
+I learned how objects store related data.
+
+31. Object Properties
+This video showed how to access object data.
+
+32. Object Methods
+I learned how objects can include functions.
+
+33. JSON
+This video explained JSON and its purpose.
+
+34. The DOM
+I learned how JavaScript interacts with HTML using the DOM.
+
+35. Selecting DOM Elements
+This video showed how to select webpage elements.
+
+36. Modifying DOM Content
+I learned how JavaScript changes webpage content.
+
+37. Styling with JavaScript
+This video explained changing CSS with JavaScript.
+
+38. Events
+I learned how JavaScript responds to user actions.
+
+39. Event Listeners
+This video showed how events connect to functions.
+
+40. Forms and User Input
+I learned how to read user input.
+
+41. Preventing Default Behavior
+This video explained controlling browser behavior.
+
+42. Debugging JavaScript
+I learned how to find and fix errors.
+
+43. Common Errors
+This video explained common JavaScript mistakes.
+
+44. Try and Catch
+I learned how to handle errors safely.
+
+45. Asynchronous JavaScript
+This video explained handling long tasks.
+
+46. Callbacks
+I learned how callbacks work.
+
+47. Promises
+This video explained promises in JavaScript.
+
+48. Async and Await
+I learned how async and await simplify code.
+
+49. Fetching Data from APIs
+This video showed how to get data from APIs.
+
+50. Next Steps in JavaScript Learning
+The final video motivated me to continue learning JavaScript.
